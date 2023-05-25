@@ -175,6 +175,7 @@ public class HelloWorldTest {
 		
 
 	}
+	//Test
 	@Test
 	public void testdivide() {
 		int a = 4000;
@@ -187,6 +188,7 @@ public class HelloWorldTest {
 		
 
 	}
+	String name="Wei Siang";
 	@Test
 	public void testdivideNegative() {
 		int a = -4000;
@@ -251,7 +253,7 @@ public class HelloWorldTest {
 
 	}
 	
-
+//lol
 	@Test
 	public void testModulusNegative() {
 		int a = -10;
